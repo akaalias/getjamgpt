@@ -5,7 +5,7 @@
         <item>
             <title>1.4.2</title>
             <pubDate>Fri, 10 Mar 2023 14:20:52 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/JamGPT.dmg" length="4368368" type="application/octet-stream" sparkle:edSignature="JfxGOoKrvxEjTDYINpMcIIcdd7lLqnk4Vp6zf4HdZRhO3Sw+2RHwwKB8zrDgogyxd5J1FlgnmvSdAr2cfZ+BDQ=="/>
