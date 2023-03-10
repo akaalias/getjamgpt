@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>JamGPT</title>
+        <item>
+            <title>1.4.1</title>
+            <pubDate>Fri, 10 Mar 2023 14:20:52 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/JamGPT.dmg" length="4364085" type="application/octet-stream" sparkle:edSignature="9bJaNCytnS+EaNFSnCd8u5LoFNvmsO4KB9aJ4l4AyuyTCACB9iEl4xwylxV+viebw5QOs7oQnz7TuUlvhbUuDw=="/>
+        </item>
+    </channel>
+</rss>
