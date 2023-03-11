@@ -3,6 +3,17 @@
     <channel>
         <title>JamGPT</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Sat, 11 Mar 2023 10:57:13 +0100</pubDate>
+            <sparkle:version>1.4.1</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT-1.4.1.dmg" length="4370864" type="application/octet-stream" sparkle:edSignature="b/PscZg+PZkHiBZoP2VQ3be6FoyTbHFVs/mguBrWYiDYl88ccrbFmUyXpmR4/4qsnAmz26eEAVwc+ZPulsgICg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.4.1-1.4.0.delta" sparkle:deltaFrom="1.4.0" length="249830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/lxtK29Dw43nIYb6961G7+w/M0RnyS+vZUEbDXUhAZiuZe0CiBuZHlMZsxnfBHZ9qPK7maWQnTbdhobXdViRDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Sat, 11 Mar 2023 10:49:32 +0100</pubDate>
             <sparkle:version>1.4.0</sparkle:version>
