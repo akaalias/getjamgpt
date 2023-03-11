@@ -1,2 +1,2 @@
 # GetJamGPT
-Download latest at https://getjamgpt.app
+Download latest at https://jamgpt.app
