@@ -1,3 +1,5 @@
+
+
 # GetJamGPT
 Download latest at https://jamgpt.app
 
@@ -8,4 +10,9 @@ Use `./publish.sh`
 - appdmg: `npm install appdmg`
 - scout: `brew install ABridoux/formulae/scout`
 - generate_appcast: $SPARKLE/bin/generate_appcast from https://sparkle-project.org/
+
+#### Generate folder with icons (Icon.iconset) with the macOS app
+```bash
+$ iconutil -c icns ./Icon.iconset
+```
 
