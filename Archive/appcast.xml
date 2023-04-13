@@ -3,6 +3,21 @@
     <channel>
         <title>JamGPT</title>
         <item>
+            <title>1.7.3</title>
+            <pubDate>Thu, 13 Apr 2023 17:24:57 +0200</pubDate>
+            <sparkle:version>1.7.3</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT-1.7.3.dmg" length="3583526" type="application/octet-stream" sparkle:edSignature="qaO/vOw3LYX7N3I3AW2JWdHcgEk3dpXQUCUsHi84egIRDXvCZB3po/p6v0boMdd7HHEtBxJfIeOtb2ZB38FpCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.3-1.7.2.delta" sparkle:deltaFrom="1.7.2" length="240174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="hiiBrHk9T/Clz/JdHPMPjer+FxWs0XTTNrEZKOTXbpvA6mk9zwTXIm3JBzgxsWXTlnvTQos4ckeaf5C+m1bkCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.3-1.7.1.delta" sparkle:deltaFrom="1.7.1" length="242678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="sD5XSNWHM5j0uebZxRUNTYwdb2abKkkvFHN6FZZrAg8VJTGu44fg8RCEujvi5muULwzP4p4NeBBXMBOVktHgCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.3-1.7.0.delta" sparkle:deltaFrom="1.7.0" length="261418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="hWFM/nLaAt+E/34I4XKkakuLkkRr5N72O/eVztDmc6BVRRzNFD4LwoDbveLAnnVA6axiZ4L9G0MfDuhW7KX6Ag=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.3-1.6.9.delta" sparkle:deltaFrom="1.6.9" length="285950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="sSwq1+1REZKIpbZmXxYNtDjFY3ToGWKJinnhYtqPqrXqeJAJLXhibspRHfG7zOq33God3W4zI3nhDLzMEutMCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.3-1.6.8.delta" sparkle:deltaFrom="1.6.8" length="286382" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="YUQfsZFlqBsmWpmSALqayhCDmOqxblIeA9tkNZ4+dPlTrkEKbcR1F+zS+ui/eO9BilvZnldqnqwgqQGAe2ruDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.2</title>
             <pubDate>Thu, 13 Apr 2023 12:37:26 +0200</pubDate>
             <sparkle:version>1.7.2</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.1-1.6.8.delta" sparkle:deltaFrom="1.6.8" length="268290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="e92A2AoWfEncebKvG7Nt9srC91YZxgn31fmBW/FaGABgB1ol90PdHZK/kQ6uxvlC4bRSPvmgL8Z1cyI1rYycCw=="/>
                 <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.1-1.6.7.delta" sparkle:deltaFrom="1.6.7" length="273534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UgLS6YtijjONlLrj1AKvhjCj68jtLZcVtJB6r5bVMyGKSmEEAhwSCTA9H0jmykLawY0/rK+oiedaVSYJ/fW3DA=="/>
                 <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.1-1.6.6.delta" sparkle:deltaFrom="1.6.6" length="290666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="F6q5RvhJEKEAWA8Gj2VD2b1An7+6tH54e7gP1qg/ZxwY9VJvta7xflpqTpQxGp9EuRmngahlYpDmUzzGXxc1Dw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.7.0</title>
-            <pubDate>Tue, 11 Apr 2023 16:28:14 +0200</pubDate>
-            <sparkle:version>1.7.0</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT-1.7.0.dmg" length="3578537" type="application/octet-stream" sparkle:edSignature="wABrfNColdkHDyycTm1faV8hTJ8WmUO4xtGdsGP6FZ7f/LeW5qkJavtmSG98aTziwTvTydkw7VcMSXAX65cLCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.0-1.6.9.delta" sparkle:deltaFrom="1.6.9" length="243138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="QSQwgdfyGaEtO2swHdj0QSglXRPvedSU2JE8piN/p4p+wXYcn4QrfwAGMVsTh9Q7eSHBF8StBQch14c3TFtnDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.0-1.6.8.delta" sparkle:deltaFrom="1.6.8" length="252038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="v9j3DA49X+Y4YPbLunwP7Cv+lfobk4Dr8ZQaFD0IVWdKEUIAibfbYSuDoD7TdtVrAdmFYqkZ0L/DbT4gfEc2Aw=="/>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.0-1.6.7.delta" sparkle:deltaFrom="1.6.7" length="254294" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UUXjuLuOnKhKeoGBFqVQN/yt0XEuHxS45+EiYGOQaAqBin8BIuCiIVqUoBb3BLbpy666X1G3GdiBUROE8IcaAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.0-1.6.6.delta" sparkle:deltaFrom="1.6.6" length="272162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="MpOV4xYAuOcgJHRATAOJ5JaQBSF7cTX4Wu1WK9p4tDLyBKWdbow8rL15gXgAp0Q+wRCFqRaiEO2H8pGKSFU2Dg=="/>
-                <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.7.0-1.6.5.delta" sparkle:deltaFrom="1.6.5" length="275378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FkwNGNemLYXsOvuTRnyQd2pnq6PfvDLzzXDN4EWtbd4f4TL33cNSS/1NEls3q19k40ltdcue9tCDuHRCCxe0Dg=="/>
             </sparkle:deltas>
         </item>
     </channel>
