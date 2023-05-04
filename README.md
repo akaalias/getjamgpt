@@ -16,3 +16,4 @@ Use `./publish.sh`
 $ iconutil -c icns ./Icon.iconset
 ```
 
+
