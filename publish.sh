@@ -33,6 +33,11 @@ echo ""
 ./getversion.sh
 
 echo ""
+echo "Write Release Notes:"
+echo ""
+./generate_release_notes_html.sh
+
+echo ""
 echo "Generating Appcast:"
 echo ""
 ./generate_appcast.sh
