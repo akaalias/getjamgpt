@@ -9,6 +9,45 @@
             <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT-1.9.0.html</sparkle:releaseNotesLink>
+            <description><![CDATA[
+<h1>Happy Friday to YOU</h1>
+
+<p>
+  👋🏻 Hey there! Alexis and Tobi here. We're so glad you're giving JamGPT a spin. 
+</p>
+
+<p>
+  Earlier this week we saw a spike in downloads, so we're <b>super curious</b> about who YOU are. We'd love to talk to you and hear what you're working on. Honestly, we're just learning to work with AI as much as you. So, don't be shy and instead <a href="https://calendly.com/alexis-rondeau/lets-talk">book a time here!</a>
+</p>
+
+<h2>Features and Tricks You Should Know</h2>
+
+<p>
+  We built JamGPT for the two of us. So there are a bunch of features you may or may not know. So, in the coming releases, we'll write them down here. So you can try them on.
+  </p>
+
+<h3>Getting Better Answers</h3>
+<p>
+  Here are a few small things that we built, that you also might enjoy:
+  <ul>
+    <li>Full Markdown Support (Add "Format as markdown" to your prompt)</li>
+    <li>Neat Tables ("Render as tabular data") </li>
+    <li>Mermaid Graphs ("Use mermaid.js to describe the following...")</li>
+    <li>Code Syntax Highlighting</li>
+    <li>Export Everything to Markdown (Go to "Settings > Updates > Save History"</li>
+    <li>Custom CSS (Go to "Settings > Theme")</li>
+  </ul>
+</p>
+
+<p>
+  We'll document more features as we move forward, so stay tuned and make sure you've got "Automatically Check for Updates" enabled in your Settings!
+</p>
+
+<h3>Fixes in 1.9.0</h3>
+<p>
+  We fixed a small UX issues with the Snippets feature. 
+</p>
+            ]]></description>
             <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT-1.9.0.dmg" length="3970367" type="application/octet-stream" sparkle:edSignature="bC99BtA+EIAna0csu2QiODOj0qvkJ2FJaatpGf9BYHprD+O1CSRxXPONX9UZcxE4EZTjkvTFenI/ny834iN1Dw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/akaalias/getjamgpt/main/Archive/JamGPT1.9.0-1.8.9.delta" sparkle:deltaFrom="1.8.9" length="268322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0MVyaqvOYfLSIhIQi5fLNXIAGABQaE8mWTDhd5SEzOYC1jW3yWovDcweBF5dsoQvohYXqShHhS754hmTn/tUDg=="/>
